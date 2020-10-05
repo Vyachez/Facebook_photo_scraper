@@ -1,4 +1,4 @@
-# Facebook Public Profile Picture downloader (Python only)
+# Picture downloader (Python only)
 
 This is very basic web scraper that parses Facebook public pages and downloads thumbnail photos from it.
 
